@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Michelle Salazar. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Junior Software Developer | Data Analyst",
+      "description": "👋 I'm Michelle Salazar. Student at Code Fellows working on a Full Stack Developer certificate to complete by end of June 2022. My current and new skills include HTML5, CSS, JS, SQL, React, bootstrap, and Advanced Excel skills. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,117 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Minimum Viable Potato",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "This was a group project during our inital introductory class. I worked alongside two other students and built this app from scratch. Overall purpose of the app: To generate potatoe recipes given a list of ingredients",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/2022-03-29_00-00-59MVP.jpg",
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwiki.cern.ch%2Ftwiki%2Fbin%2Fview%2FSandbox%2FPOTATO&psig=AOvVaw2Psb9qi-WbrieW7nCjvn6d&ust=1648623671687000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiptvXf6vYCFQAAAAAdAAAAABAD"
         ],
-        "url": "",
+        "url": "https://minimum-viable-potato.github.io/Potatoe-Recipes/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-Javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2020",
+        "description": "Inital project at Code Fellows 201 course. The object of this project was to create a website for a bakery for a new product named Salmon Cookies.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/2022-03-29_00-05-33salmoncookies.jpg",
+          "images/2022-03-29_00-05-33salmoncookies.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://misalz.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-Javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Terminal Development",
+        "startDate": "2022",
+        "description": "Project for Code Fellows class 201. This was a team application that was created at the end of 201. The purpose of this app is to create a flashcard application where code fellows students could practice and learn programming terminology.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/TD.jpg",
+          "images/TD.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://json-borne.github.io/terminal-development/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-Javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "css"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CHPW",
+        "title": "Program Integration Specialist",
+        "years": "05.2021 - 11.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "SQL"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SQL",
+          "Excel",
+          "Relational Databases",
+          "Visual Studio"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "First Hill Surgery Center",
+        "title": "Revenue Cycle Analyst",
+        "years": "011.2019 - 04.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Excel"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Excel"
+        ]
+      },
+      {
+        "company": "HelmsBriscoe",
+        "title": "Business Analyst",
+        "years": "01.2019 - 10.2019",
+        "mainTech": [
+          "SQL"
+          
+        ],
+        "technologies": [
+          "SQL",
+          "Excel",
+          "Relational Databases",
+          "Visual Studio"
         ]
       }
     ]
